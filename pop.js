@@ -23,3 +23,5 @@ console.log(ultimaTarefa);
 console.log(tarefas);
 
 //Saída esperada:['Estudar', 'Lavar louça', 'Passear com o cachorro'].
+
+//Saída esperada:['Estudar', 'Lavar louça', 'Passear com o cachorro'].
